@@ -7,17 +7,17 @@ criaCartao(
 criaCartao(
     'Espanhol',
     'Como se diz olá, como está em Espanhol?,
-    ''
+    'Hola, cómo estás?'
 )
 
 criaCartao(
     'História',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'De quem é a famosa frase “Penso, logo existo”??',
+    ' René Descartes'
 )
 
 criaCartao(
     'Geografia',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quais o menor e o maior país do mundo??',
+    'Vaticano e Rússia'
 )
